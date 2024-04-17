@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "name": "itp-project",
+  "version": "1.0.0",
+  "description": "Order Mnagment Admin Side",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayyash Zamny",
+  "license": "ISC"
+}
